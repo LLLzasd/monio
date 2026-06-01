@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 纯色背景启动屏：无图标、无内容 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 只使用系统背景色，自动适应深色/浅色模式 -->
+    <item android:drawable="?android:colorBackground" />
+</layer-list>
